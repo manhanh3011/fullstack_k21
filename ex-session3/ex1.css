@@ -29,7 +29,7 @@ p{
     margin: 4px;
 }
 
-.tag + .highlight{
+.tag.highlight{
     background-color: #e53935;
     color: white;
 }

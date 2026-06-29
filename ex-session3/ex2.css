@@ -29,6 +29,6 @@ h2 ~ p{
     color: #555;
 }
 
-.content > h2, .content > p{
+.content h2, .content p{
     font-family: 'Segoe UI', sans-serif;    
 }
